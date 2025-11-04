@@ -1,3 +1,29 @@
-# requirements.txt
-# Python package dependencies for face detection and recognition
-# TODO: Add required packages (e.g., opencv-python, numpy, etc.)
+# Python package dependencies for face detection and recognition pipeline
+
+# Core Computer Vision
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+
+# Numerical Computing
+numpy>=1.19.0
+
+# Image Processing
+Pillow>=8.0.0
+
+# Convenience Functions
+imutils>=0.5.4
+
+# CLI Support
+argparse>=1.4.0
+
+# File System Operations
+os-sys>=2.1.4
+
+# Optional: Progress Bars
+tqdm>=4.50.0
+
+# Optional: Plotting and Visualization
+matplotlib>=3.3.0
+
+# Optional: Data Handling
+pandas>=1.1.0
