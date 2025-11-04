@@ -1,0 +1,3 @@
+# requirements.txt
+# Python package dependencies for face detection and recognition
+# TODO: Add required packages (e.g., opencv-python, numpy, etc.)
